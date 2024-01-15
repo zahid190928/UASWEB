@@ -1,4 +1,4 @@
-// Copyright (c) 2022 Dandi Ramdani
+// Copyright (c) 2022 zahid mohammad farhan
 //
 // This software is released under the MIT License.
 // https://opensource.org/licenses/MIT
